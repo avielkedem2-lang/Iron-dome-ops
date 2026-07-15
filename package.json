@@ -1,0 +1,25 @@
+{
+  "name": "iron_dome_ops",
+  "version": "1.0.0",
+  "description": "\"# Iron-dome-ops\"",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avielkedem2-lang/Iron-dome-ops.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/avielkedem2-lang/Iron-dome-ops/issues"
+  },
+  "homepage": "https://github.com/avielkedem2-lang/Iron-dome-ops#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mysql2": "^3.23.0"
+  }
+}
